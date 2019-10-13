@@ -4,7 +4,7 @@
 
 ## Commands/Functions:
     1. concert-this:
-        *   This command calls the concertThis() function which takes in 1 argument; that argument being a band/  return singer's name. It then provides information on the venue name, location, and date of the band/singer's next concert. 
+        *   This command calls the concertThis() function which takes in 1 argument; that argument being a band/<br/>singer's name. It then provides information on the venue name, location, and date of the band/singer's next concert. 
 
     2. spotify-this-song:
         *   This command calls the spotifyThisSong() function which takes 1 argument; that argument being a song name. It then provides about the song, album, and artist along with a link to a 30 second preview of the song. 
